@@ -1,0 +1,20 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #21c3db;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>edit</title>
+  <g>
+    <path class="cls-1" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0Z" transform="translate(0 0)"/>
+    <path class="cls-2" d="M8.49,18.63h0l-.71.71h0a.56.56,0,0,0-.26.36l-.6,2.7a.56.56,0,0,0,.55.68h.12l2.7-.6a.56.56,0,0,0,.36-.26h0l.71-.71Z" transform="translate(0 0)"/>
+    <path class="cls-2" d="M22.13,10.19,19.84,7.89a.43.43,0,0,0-.61,0L9.58,17.55h0l0,0,2.9,2.9,7.11-7.11,1.1-1.1,1.42-1.42A.43.43,0,0,0,22.13,10.19Z" transform="translate(0 0)"/>
+  </g>
+  <path class="cls-1" d="M72-18.65" transform="translate(0 0)"/>
+</svg>

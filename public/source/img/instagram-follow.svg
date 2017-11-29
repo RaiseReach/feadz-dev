@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="124px" height="48px" viewBox="0 0 124 48">
+<filter filterUnits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter0">
+<feFlood flood-color="rgb(255,255,255)" result="coFloodOut1"/>
+<feComposite in="coFloodOut1" in2="SourceAlpha" operator="in" result="coOverlay1"/>
+<feBlend in="coOverlay1" in2="SourceGraphic" mode="normal" result="colorOverlay1"/>
+</filter>
+<linearGradient id="linear_PSgrad_0" x1="100%" y1="50%" x2="0%" y2="50%">
+    <stop offset="0%" stop-color="rgb(123,55,195)" stop-opacity="1" />
+    <stop offset="47.8027%" stop-color="rgb(203,37,131)" stop-opacity="1" />
+    <stop offset="90.4297%" stop-color="rgb(231,33,79)" stop-opacity="1" />
+    <stop offset="100%" stop-color="rgb(245,75,67)" stop-opacity="1" />
+</linearGradient>
+
+<g><path fillRule="evenodd" d="M 24-0C 24-0 100-0 100-0 113.25-0 124 10.75 124 24 124 37.25 113.25 48 100 48 100 48 24 48 24 48 10.75 48-0 37.25-0 24-0 10.75 10.75-0 24-0Z" fill="url(#linear_PSgrad_0)"/><path fillRule="evenodd" d="M 98-0C 98-0 100-0 100-0 113.25-0 124 10.75 124 24 124 37.25 113.25 48 100 48 100 48 98 48 98 48 84.75 48 74 37.25 74 24 74 10.75 84.75-0 98-0Z" fill="rgb(0,0,0)" opacity="0.20"/><g><path fillRule="evenodd" d="M 98.5 17C 99.33 17 100 17.67 100 18.5 100 18.5 100 30.5 100 30.5 100 31.33 99.33 32 98.5 32 97.67 32 97 31.33 97 30.5 97 30.5 97 18.5 97 18.5 97 17.67 97.67 17 98.5 17Z" fill="rgb(255,255,255)"/><path fillRule="evenodd" d="M 92.5 23C 92.5 23 104.5 23 104.5 23 105.33 23 106 23.67 106 24.5 106 25.33 105.33 26 104.5 26 104.5 26 92.5 26 92.5 26 91.67 26 91 25.33 91 24.5 91 23.67 91.67 23 92.5 23Z" fill="rgb(255,255,255)"/></g><image x="34" y="14" width="21" height="20" filter="url(#filter0)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAUCAMAAABVlYYBAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAw1BMVEUAAAAeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiQeHiT////wJwKDAAAAP3RSTlMAJMXEzPmZgKyMwHCwqgEH1d7Q58KS5eiL0wW8+xES/LMG1KC6CAm4hm6DHPW5kfQbTPf2Syej6+qiu62QrstXxdNhAAAAAWJLR0RA/tlc2AAAAKhJREFUGNNt0dcWgjAQBNBBRQW7Ith7w96w6/z/XxmwnFDmJcl92Gw2UGIMJq4gwXAS8J/VZCotloBqAPSQZoRmQ5rLo1AMKUvliq+uUTX+e1dN3SJroqJGWrr50XoDTbbaQjtd9tAfeDoERlTHQicqp78ehM5IW6hNziVdLMnVekVutpJit/fuPhwhK5zTmZerA79K+egtoN/p3B9ynu4roqb+QuQPvQH8ckdHBDVOdQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0xMC0xMFQxNzowMDozNCswMDowMGfdVVQAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMTAtMTBUMTc6MDA6MzQrMDA6MDAWgO3oAAAAAElFTkSuQmCC" /></g></svg>
